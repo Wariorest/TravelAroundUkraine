@@ -1,0 +1,36 @@
+.text-center{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.text-center h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.modal-content--item{
+    padding: 15px;
+}
+.modal-content--item:hover{
+    cursor: pointer;
+}
+.modal-content--item img{
+    border-radius: 10px;
+    height: 20rem;
+}
+.modal-content h3{
+    text-align: center;
+}
+.modal-body{
+    text-align: center;
+}
+.modal-body img{
+
+    margin-bottom: 10px;
+}
+.container--about--text{
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5%;
+}
